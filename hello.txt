@@ -1,3 +1,4 @@
 Hello Git A
 
 máy A sửa code theo chức năng
+may a them noi dung
