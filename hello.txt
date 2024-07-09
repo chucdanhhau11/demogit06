@@ -1,3 +1,4 @@
 Hello Git A
 
 máy A sửa code theo chức năng
+máy B sửa nội dung
